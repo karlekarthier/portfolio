@@ -1,4 +1,4 @@
-User-agent: * -includes all crawlers.
+User-agent: *-includes all crawlers.
 Disallow: /images/
 Disallow: /pages/thankyou.html
 allow: /assets/images/karlekartier.jpg
