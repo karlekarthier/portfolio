@@ -1,5 +1,4 @@
 User-agent: *
+Disallow: /
 
-Disallow: /images/
-allow: /assets/images/karlekartier.jpg
 sitemap: https://karlekarthier.github.io/portfolio/sitemap.xml
