@@ -1,4 +1,8 @@
 User-agent: *
-Disallow: /
+Disallow: /assets/
+
+User-agent: *
+Allow: https://karlekarthier.github.io/portfolio/assets/images/karlekartier.jpg
+Allow: https://karlekarthier.github.io/portfolio/assets/favicon/kk_logo.svg
 
 sitemap: https://karlekarthier.github.io/portfolio/sitemap.xml
