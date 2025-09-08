@@ -9,17 +9,27 @@
 
 <url>
   <loc>https://karlekarthier.github.io/portfolio/</loc>
-  <lastmod>2025-03-24T16:46:27+00:00</lastmod>
+  <lastmod>2025-09-08T17:16:49+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
+  <loc>https://karlekarthier.github.io/portfolio/contact.html</loc>
+  <lastmod>2025-09-08T17:16:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
   <loc>https://karlekarthier.github.io/portfolio/404.html</loc>
-  <lastmod>2025-03-24T16:46:27+00:00</lastmod>
+  <lastmod>2025-09-08T17:16:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://karlekarthier.github.io/portfolio/assets/pdf/Karthick%20Kishore%20CV%202025.pdf</loc>
+  <lastmod>2025-09-08T17:16:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://karlekarthier.github.io/portfolio/index.html</loc>
-  <lastmod>2025-03-24T16:46:27+00:00</lastmod>
+  <lastmod>2025-09-08T17:16:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
